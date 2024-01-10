@@ -7,3 +7,4 @@
 7. git push -u origin master
 8. git add .
 9. git commit -a -m "second commit"
+10. git push -u origin master
