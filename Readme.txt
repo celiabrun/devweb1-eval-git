@@ -5,3 +5,4 @@
 5. git add .
 6. git commit -a -m "First commit"
 7. git push -u origin master
+8. git add .
