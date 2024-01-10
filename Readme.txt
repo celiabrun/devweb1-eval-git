@@ -3,3 +3,4 @@
 3. git branch -M master
 4. git push -u origin master
 5. git add .
+6. git commit -a -m "First commit"
